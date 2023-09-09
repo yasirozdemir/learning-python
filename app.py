@@ -177,3 +177,11 @@ print(
     nums.count(3)
 )  # -> 2. returns the number of occurance of the given number in this tuple
 # For more look for MAGIC METHODS in PYTHON
+
+
+# Functions
+def calc_sum(a, b):
+    return a + b
+
+
+print(calc_sum(3, 4))
